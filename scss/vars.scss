@@ -1,106 +1,37 @@
-$default-color: #fff;
-$red-color:red;
-$blue-color: #013ef8;
-$black-color:#1a202c;
-$white-color:#fafafa;
-$grey-color: #718096;
-$grey-color1:#4a5568;
-$linear-gradient: linear-gradient(225deg, #512b81 0%, #013ef8 100%);
-$black-color1:#0f172a;
-$white-color1:#E7DAED;
-$black-color2:#232340;
 
+$white-color:#fff;
+$white-color1:#f1f1f1;
+$black-color:#000;
+$black-color1:#121212;
+$blue-color:  #2196f3;
+$black-color2:rgba(18, 18, 18, 0.88);
 
-
-%interregular-400{
-    font-family: 'Inter-Regular';
-    font-weight: 400;
+%firasansregular-400 {
+  font-family: "Firasans-Regular";
+  font-weight: 400;
 }
-%intermedium-500{
-    font-family: 'Inter-Medium';
-    font-weight: 500;
+%firasansmedium-500 {
+  font-family: "Firasans-Medium";
+  font-weight: 500;
 }
 
-%intersemibold-600{
-    font-family: 'Inter-SemiBold';
-    font-weight: 600;
+%firasanssemibold-600 {
+  font-family: "Firasans-SemiBold";
+  font-weight: 600;
 }
-%interbold-700{
-    font-family: 'Inter-Bold';
-    font-weight: 700;
+/* %interbold-700 {
+  font-family: "Inter-Bold";
+  font-weight: 700;
 }
-%interbolditalic-700{
-    font-family: 'Inter-BoldItalic';
-    font-weight: 700;
+%interbolditalic-700 {
+  font-family: "Inter-BoldItalic";
+  font-weight: 700;
 }
-%interextrabold-800{
-    font-family: 'Inter-ExtraBold';
-    font-weight: 800;
+%interextrabold-800 {
+  font-family: "Inter-ExtraBold";
+  font-weight: 800;
 }
 %interextrabolditalic-800 {
-    font-family: 'Inter-ExtraBoldItalic';
-    font-weight: 800;
-}
-
-//Monserrat
-%montserratextrabold-800{
-    font-family: 'Montserrat-ExtraBold';
-    font-weight: 800;
-}
-
-%montserratextrabolditalic-800{
-    font-family: 'Montserrat-ExtraBoldItalic';
-    font-weight: 800;
-}
-
-%montserratmedium-500{
-    font-family: 'Montserrat-Medium';
-    font-weight: 500;
-}
-
-%montserratsemibold-600{
-    font-family: 'Montserrat-SemiBold';
-    font-weight: 600;
-}
-
-%montserratlight-300{
-    font-family: 'Montserrat-Light';
-    font-weight: 300;
-}
-%montserratregular-400{
-    font-family: 'Montserrat-Regular';
-    font-weight: 400;
-}
-%montserratitalic-400{
-    font-family: 'Montserrat-Italic';
-    font-weight: 400;
-}
-%montserratsemibolditalic-600{
-    font-family: 'Montserrat-SemiBoldItalic';
-    font-weight: 600;
-}
-%montserratbold-700{
-    font-family: 'Montserrat-Bold';
-    font-weight: 700;
-}
-
-//Lexend-Deca
-%lexenddeca-400{
-    font-family: 'Lexend-Deca';
-    font-weight: 400;
-}
-%lexenddecabold-700{
-    font-family: 'Lexend-Deca';
-    font-weight: 700;
-}
-
-//Gilroy
-
-%gilroymedium-500{
-    font-family: 'Gilroy-Medium';
-    font-weight: 500;
-}
-
-
-
-
+  font-family: "Inter-ExtraBoldItalic";
+  font-weight: 800;
+} */

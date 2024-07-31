@@ -1,117 +1,25 @@
 @font-face {
-  font-family: "Inter-Medium";
+  font-family: "Firasans-Medium";
   font-weight: 500;
   font-style: normal;
-  src: url(../fonts/Inter-Medium.woff2) format(woff2), url(../fonts/Inter-Medium.woff) format(woff);
+  src: url(../fonts/Firasansmedium.woff2) format(woff2), url(../fonts/Firasansmedium.woff) format(woff);
 }
 @font-face {
-  font-family: "Inter-Regular";
+  font-family: "Firasans-Regular";
   font-weight: 400;
   font-style: normal;
-  src: url(../fonts/Inter-Regular.woff2) format(woff2), url(../fonts/Inter-Regular.woff) format(woff);
+  src: url(../fonts/Firasansregular.woff2) format(woff2), url(../fonts/Firasansregular.woff) format(woff);
 }
 @font-face {
-  font-family: "Inter-SemiBold";
+  font-family: "Firasans-SemiBold";
   font-weight: 600;
   font-style: normal;
-  src: url(../fonts/Inter-SemiBold.woff2) format(woff2), url(../fonts/Inter-SemiBold.woff) format(woff);
+  src: url(../fonts/Firasanssemibold.woff2) format(woff2), url(../fonts/Firasanssemibold.woff) format(woff);
 }
-@font-face {
+/* @font-face {
   font-family: "Inter-Bold";
   font-weight: 700;
   font-style: normal;
-  src: url(../fonts/Inter-Bold.woff2) format(woff2), url(../fonts/Inter-Bold.woff) format(woff);
-}
-@font-face {
-  font-family: "Inter-BoldItalic";
-  font-weight: 700;
-  font-style: italic;
-  src: url(../fonts/InterBoldItalic.woff2) format(woff2), url(../fonts/Inter-ExtraBoldItalic.woff) format(woff);
-}
-@font-face {
-  font-family: "Inter-ExtraBoldItalic";
-  font-weight: 800;
-  font-style: italic;
-  src: url(../fonts/Inter-ExtraBoldItalic.woff2) format(woff2), url(../fonts/Inter-ExtraBoldItalic.woff2) format(woff);
-}
-@font-face {
-  font-family: "Inter-ExtraBold";
-  font-weight: 800;
-  font-style: normal;
-  src: url(../fonts/Inter-ExtraBold.woff2) format(woff2), url(../fonts/Inter-ExtraBold.woff) format(woff);
-}
-/* //Montserrat */
-@font-face {
-  font-family: "Montserrat-ExtraBoldItalic";
-  font-weight: 800;
-  font-style: italic;
-  src: url(../fonts/Montserrat/Montserrat-ExtraBoldItalic.woff2) format(woff2), url(../fonts/Montserrat/Montserrat-ExtraBoldItalic.woff) format(woff);
-}
-@font-face {
-  font-family: "Montserrat-ExtraBold";
-  font-weight: 800;
-  font-style: normal;
-  src: url(../fonts/Montserrat/Montserrat-ExtraBold.woff2) format(woff2), url(../fonts/Montserrat/Montserrat-ExtraBold.woff) format(woff);
-}
-@font-face {
-  font-family: "Montserrat-Medium";
-  font-weight: 500;
-  font-style: normal;
-  src: url(../fonts/Montserrat/Montserrat-Medium.woff2) format(woff2), url(../fonts/Montserrat/Montserrat-Medium.woff) format(woff);
-}
-@font-face {
-  font-family: "Montserrat-Semibold";
-  font-weight: 600;
-  font-style: normal;
-  src: url(../fonts/Montserrat/Montserrat-SemiBold.woff2) format(woff2), url(../fonts/Montserrat/Montserrat-SemiBold.woff) format(woff);
-}
-@font-face {
-  font-family: "Montserrat-Light";
-  font-weight: 300;
-  font-style: normal;
-  src: url(../fonts/Montserrat/Montserrat-Light.woff2) format(woff2), url(../fonts/Montserrat/Montserrat-Light.woff) format(woff);
-}
-@font-face {
-  font-family: "Montserrat-Regular";
-  font-weight: 400;
-  font-style: normal;
-  src: url(../fonts/Montserrat/Montserrat-Regular.woff2) format(woff2), url(../fonts/Montserrat/Montserrat-Regular.woff) format(woff);
-}
-@font-face {
-  font-family: "Montserrat-Italic";
-  font-weight: 400;
-  font-style: italic;
-  src: url(../fonts/Montserrat/Montserrat-Italic.woff2) format(woff2), url(../fonts/Montserrat/Montserrat-Italic.woff) format(woff);
-}
-@font-face {
-  font-family: "Montserrat-SemiBoldItalic";
-  font-weight: 600;
-  font-style: italic;
-  src: url(../fonts/Montserrat/Montserrat-SemiBoldItalic.woff2) format(woff2), url(../fonts/Montserrat/Montserrat-SemiBoldItalic.woff) format(woff);
-}
-@font-face {
-  font-family: "Montserrat-Bold";
-  font-weight: 700;
-  font-style: normal;
-  src: url(../fonts/Montserrat/Montserrat-Bold.woff2) format(woff2), url(../fonts/Montserrat/Montserrat-Bold.woff) format(woff);
-}
-/* //Lexend-Deca */
-@font-face {
-  font-family: "Lexend-Deca";
-  font-weight: 400;
-  font-style: normal;
-  src: url(../fonts/Lexend-Deca/LexendDeca-Regular.woff2) format(woff2), url(../fonts/Lexend-Deca/LexendDeca-Regular.woff) format(woff);
-}
-@font-face {
-  font-family: "Lexend-DecaBold";
-  font-weight: 700;
-  font-style: normal;
-  src: url(../fonts/Lexend-Deca/lexend-deca-bold.woff2) format(woff2), url(../fonts/Lexend-Deca/lexend-deca-bold.woff) format(woff);
-}
-/* //Gilroy */
-@font-face {
-  font-family: "Gilroy-Medium";
-  font-weight: 500;
-  font-style: normal;
-  src: url(../fonts/Gilroy/gilroy-medium.woff2) format(woff2), url(../fonts/Gilroy/gilroy-medium.woff) format(woff);
-}
+  src: url(../fonts/Inter-Bold.woff2) format(woff2),
+    url(../fonts/Inter-Bold.woff) format(woff);
+} */
